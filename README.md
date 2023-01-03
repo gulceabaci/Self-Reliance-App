@@ -6,7 +6,8 @@
 - Self Reliance Test was done with React.  
 - Current score, number of questions, rank and options are indicated.  
 - It outputs the self-confidence status as %.  
-- The test can also be restarted with the Restart test button.
+- The test can also be restarted with the Restart test button.  
+- Thank you for giving a time..
 
 
 
